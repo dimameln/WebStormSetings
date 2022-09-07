@@ -6,7 +6,4 @@
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
-  <action id="NewFile">
-    <keyboard-shortcut first-keystroke="shift n" />
-  </action>
 </keymap>
