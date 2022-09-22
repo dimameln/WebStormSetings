@@ -4,7 +4,7 @@
     <property name="created">2022-07-17T22:54:06</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.3.0.0</property>
-    <property name="modified">2022-09-07T22:19:14</property>
+    <property name="modified">2022-09-22T22:16:03</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1292,10 +1292,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="ff5874" />
