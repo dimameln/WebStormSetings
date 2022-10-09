@@ -7,11 +7,26 @@
     <entry key="typescript.external.type.definitions.packages" value="express,lodash,mocha,chai,jasmine,react-dom,jest,styled-components,react-native" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="697098" />
+    <entry key="editor.focus.mode.color.dark" value="697098" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="FlowJSInfo" value="false" />
+        <entry key="InsertOverwrite" value="false" />
+        <entry key="JSONSchemaSelector" value="false" />
+        <entry key="LineSeparator" value="false" />
+        <entry key="Notifications" value="false" />
+        <entry key="Position" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
+        <entry key="mtProjectFactory" value="false" />
+        <entry key="mtThemeFactory" value="false" />
+        <entry key="settingsEntryPointWidget" value="false" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>
